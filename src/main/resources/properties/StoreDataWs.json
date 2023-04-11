@@ -1,0 +1,17 @@
+[{
+    "title": "Training - Ws Plugin",
+    "properties": [
+        {
+            "name": "url",
+            "label": "Url Ws",
+            "type": "textfield",
+            "required":"true"
+        },
+        {
+            "name": "parentId",
+            "label": "Parent Id",
+            "type": "textfield",
+            "required":"true"
+        }
+    ]
+}]
